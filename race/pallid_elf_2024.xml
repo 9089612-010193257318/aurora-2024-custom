@@ -1,0 +1,17 @@
+<elements>
+<element name="Pallid Elf (2024)" type="race">
+<description>Pallid Elves are ethereal beings tied to the Feywild, capable of bending the world around them with magical grace.</description>
+<setters>
+<set name="size" value="Medium"/>
+<set name="speed" value="30"/>
+<set name="languages" value="Common, Elvish, Sylvan"/>
+<set name="darkvision" value="60"/>
+</setters>
+<abilities>
+<ability name="Feywild Connection" description="You can draw on the magic of the Feywild to enhance your abilities."/>
+<ability name="Fey Ancestry" description="Advantage on saving throws against being charmed, and magic can’t put you to sleep."/>
+<ability name="Elf Weapon Training" description="You are proficient with longswords, shortswords, shortbows, and longbows."/>
+<ability name="Fey Step" description="Once per short rest, you can cast Misty Step without expending a spell slot."/>
+</abilities>
+</element>
+</elements>
