@@ -1,4 +1,10 @@
 <index>
+    <information>
+        <name>Custom 2024 Homebrew Pack</name>
+        <description>2024 Ranger, Fey Wanderer, and Pallid Elf updates.</description>
+        <author>YourNameHere</author>
+    </information>
+
     <element url="class/ranger/ranger-2024.xml"/>
     <element url="subclass/ranger/fey_wanderer_2024.xml"/>
     <element url="race/pallid_elf_2024.xml"/>
