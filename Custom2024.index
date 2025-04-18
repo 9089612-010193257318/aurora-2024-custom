@@ -5,7 +5,12 @@
         <author>YourNameHere</author>
     </information>
 
+    <!-- Ranger Class -->
     <element url="class/ranger/ranger-2024.xml"/>
+
+    <!-- Fey Wanderer Subclass -->
     <element url="subclass/ranger/fey_wanderer_2024.xml"/>
+
+    <!-- Pallid Elf Race -->
     <element url="race/pallid_elf_2024.xml"/>
 </index>
