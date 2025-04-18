@@ -1,1 +1,5 @@
-Custom 2024 Homebrew Pack
+<index>
+    <element url="class/ranger/ranger-2024.xml"/>
+    <element url="subclass/ranger/fey_wanderer_2024.xml"/>
+    <element url="race/pallid_elf_2024.xml"/>
+</index>
