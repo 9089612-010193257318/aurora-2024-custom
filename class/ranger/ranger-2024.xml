@@ -1,49 +1,48 @@
-<elements>
 <element name="Ranger (2024 Update)" type="class">
-<description>A revised version of the Ranger class with 2024 updates like Favored Foe and Canny features.</description>
-<setters>
-<set name="hit_die" value="10"/>
-<set name="primary_abilities" value="Dexterity, Wisdom"/>
-<set name="saving_throws" value="Strength, Dexterity"/>
-<set name="proficiencies_armor" value="Light armor, medium armor, shields"/>
-<set name="proficiencies_weapons" value="Simple weapons, martial weapons"/>
-</setters>
-<progression>
-<level value="1">
-<gain feature="Favored Foe"/>
-<gain feature="Canny"/>
-</level>
-<level value="2">
-<gain feature="Fighting Style"/>
-<gain feature="Spellcasting"/>
-</level>
-<level value="3">
-<gain feature="Subclass Feature"/>
-<gain feature="Roving"/>
-</level>
-<level value="4">
-<gain feature="Feat"/>
-</level>
-<level value="5">
-<gain feature="Extra Attack"/>
-</level>
-<level value="6">
-<gain feature="Tireless"/>
-</level>
-<level value="8">
-<gain feature="Land’s Stride"/>
-</level>
-<level value="10">
-<gain feature="Nature’s Veil"/>
-</level>
-<level value="14">
-<gain feature="Vanish"/>
-</level>
-<level value="18">
-<gain feature="Feral Senses"/>
-</level>
-<level value="20">
-<gain feature="Foe Slayer"/>
-</level>
-</progression>
+    <description>A revised version of the Ranger class with 2024 updates like Favored Foe and Canny features.</description>
+    <setters>
+        <set name="hit_die" value="10"/>
+        <set name="primary_abilities" value="Dexterity, Wisdom"/>
+        <set name="saving_throws" value="Strength, Dexterity"/>
+        <set name="proficiencies_armor" value="Light armor, medium armor, shields"/>
+        <set name="proficiencies_weapons" value="Simple weapons, martial weapons"/>
+    </setters>
+    <progression>
+        <level value="1">
+            <gain feature="Favored Foe"/>
+            <gain feature="Canny"/>
+        </level>
+        <level value="2">
+            <gain feature="Fighting Style"/>
+            <gain feature="Spellcasting"/>
+        </level>
+        <level value="3">
+            <gain feature="Subclass Feature"/>
+            <gain feature="Roving"/>
+        </level>
+        <level value="4">
+            <gain feature="Feat"/>
+        </level>
+        <level value="5">
+            <gain feature="Extra Attack"/>
+        </level>
+        <level value="6">
+            <gain feature="Tireless"/>
+        </level>
+        <level value="8">
+            <gain feature="Land’s Stride"/>
+        </level>
+        <level value="10">
+            <gain feature="Nature’s Veil"/>
+        </level>
+        <level value="14">
+            <gain feature="Vanish"/>
+        </level>
+        <level value="18">
+            <gain feature="Feral Senses"/>
+        </level>
+        <level value="20">
+            <gain feature="Foe Slayer"/>
+        </level>
+    </progression>
 </element>
