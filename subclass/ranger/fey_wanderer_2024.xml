@@ -1,11 +1,10 @@
-<elements>
 <element name="Fey Wanderer (2024)" type="subclass" class="Ranger">
-<description>The Fey Wanderer is a connection between the wilds and the Feywild, using charm and magic to enhance their abilities.</description>
-<features>
-<feature level="3" name="Fey Wanderer Magic" description="At 3rd level, you learn two spells: *Faerie Fire* and *Misty Step*."/>
-<feature level="3" name="Fey Step" description="You can teleport up to 30 feet to an unoccupied space you can see, once per short rest."/>
-<feature level="7" name="Dreadful Strikes" description="You can add your Charisma modifier to the damage of your weapon attacks."/>
-<feature level="11" name="Beguiling Twist" description="As a reaction, force a creature to make a Wisdom saving throw or become charmed by you for 1 minute."/>
-<feature level="15" name="Misleading Step" description="Once per long rest, when you take damage, you can teleport 30 feet and gain advantage on your next attack roll."/>
-</features>
+    <description>The Fey Wanderer is a connection between the wilds and the Feywild, using charm and magic to enhance their abilities.</description>
+    <features>
+        <feature level="3" name="Fey Wanderer Magic" description="At 3rd level, you learn two spells: *Faerie Fire* and *Misty Step*."/>
+        <feature level="3" name="Fey Step" description="You can teleport up to 30 feet to an unoccupied space you can see, once per short rest."/>
+        <feature level="7" name="Dreadful Strikes" description="You can add your Charisma modifier to the damage of your weapon attacks."/>
+        <feature level="11" name="Beguiling Twist" description="As a reaction, force a creature to make a Wisdom saving throw or become charmed by you for 1 minute."/>
+        <feature level="15" name="Misleading Step" description="Once per long rest, when you take damage, you can teleport 30 feet and gain advantage on your next attack roll."/>
+    </features>
 </element>
